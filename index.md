@@ -1,13 +1,4 @@
-
-![GitHub](https://img.shields.io/github/license/unofficial-memsource/memsource-cli-client)
-[![Coverage Status](https://coveralls.io/repos/github/unofficial-memsource/memsource-cli-client/badge.svg?branch=master)](https://coveralls.io/github/unofficial-memsource/memsource-cli-client?branch=master)
-[![Build Status](https://travis-ci.com/unofficial-memsource/memsource-cli-client.svg?branch=master)](https://travis-ci.com/unofficial-memsource/memsource-cli-client)
-[![PyPI version](https://badge.fury.io/py/memsource-cli.svg)](https://badge.fury.io/py/memsource-cli)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/unofficial-memsource/memsource-cli-client)
-<a href="https://t.me/Unofficial_MemsourceCLI"><img src="https://img.shields.io/badge/Telegram-Unofficial Memsource CLI Telegram Group-blue?logo=telegram" alt="Unofficial Memsource CLI Telegram Group"></a>
-[![Google group : Unofficial Memsource CLI Forum](https://img.shields.io/badge/Google%20Group-Unofficial%20Memsource%20CLI%20Forum-blue.svg)](https://groups.google.com/forum/#!forum/unofficial-memsource-cli)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=unofficial-memsource_memsource-cli-client&metric=alert_status)](https://sonarcloud.io/dashboard?id=unofficial-memsource_memsource-cli-client)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ddaee7e9ca2f429cb2474cdf441ef166)](https://www.codacy.com/manual/zerodayz/memsource-cli-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=unofficial-memsource/memsource-cli-client&amp;utm_campaign=Badge_Grade)
+# About
 
 **Table of contents**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
@@ -371,3 +362,15 @@ This project is maintained on Github.
 - Please contact us by submitting [issue](#collaborate)
 - Feel free to join our [Unofficial Memsource CLI Telegram Group](https://t.me/Unofficial_MemsourceCLI)
 - Check out our [wiki](https://github.com/unofficial-memsource/memsource-cli-client/wiki/) !
+
+## Code Status
+
+![GitHub](https://img.shields.io/github/license/unofficial-memsource/memsource-cli-client)
+[![Coverage Status](https://coveralls.io/repos/github/unofficial-memsource/memsource-cli-client/badge.svg?branch=master)](https://coveralls.io/github/unofficial-memsource/memsource-cli-client?branch=master)
+[![Build Status](https://travis-ci.com/unofficial-memsource/memsource-cli-client.svg?branch=master)](https://travis-ci.com/unofficial-memsource/memsource-cli-client)
+[![PyPI version](https://badge.fury.io/py/memsource-cli.svg)](https://badge.fury.io/py/memsource-cli)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/unofficial-memsource/memsource-cli-client)
+<a href="https://t.me/Unofficial_MemsourceCLI"><img src="https://img.shields.io/badge/Telegram-Unofficial Memsource CLI Telegram Group-blue?logo=telegram" alt="Unofficial Memsource CLI Telegram Group"></a>
+[![Google group : Unofficial Memsource CLI Forum](https://img.shields.io/badge/Google%20Group-Unofficial%20Memsource%20CLI%20Forum-blue.svg)](https://groups.google.com/forum/#!forum/unofficial-memsource-cli)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=unofficial-memsource_memsource-cli-client&metric=alert_status)](https://sonarcloud.io/dashboard?id=unofficial-memsource_memsource-cli-client)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ddaee7e9ca2f429cb2474cdf441ef166)](https://www.codacy.com/manual/zerodayz/memsource-cli-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=unofficial-memsource/memsource-cli-client&amp;utm_campaign=Badge_Grade)
