@@ -49,6 +49,11 @@ Framework will download additional packages:
 <a id="markdown-whatsnew" name="whatsnew"></a>
 ## What's new
 
+Version 0.3.3
+
+Fixed #20 [BUG] memsource job create --debug displays empty output  
+Fixed #23 [BUG] memsource job download didn't display help  
+
 Version 0.3.2
 
 [0.3.2] Fixed user.py syntax error for python2
